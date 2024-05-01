@@ -1,5 +1,5 @@
-  var channelToken = "2S7X6DvI/xV1Wzz3sBHevTz4AGpk+eOYZ1SPaTWaJbofoLbm/rEn3ljtwD7IXKk5a+EVL7yljAE/9ZjENBhqFE5oidbHr40Apdklk8z7SSBHE2VjP2BZvbAvkX/hQOongwPQgFcPyqesICcgBk+TrgdB04t89/1O/w1cDnyilFU="; //แก้ 1 
-  // var ss = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+// ในไฟล์นี้ แก้ 6 จุด *************  // 
+ var channelToken = "2S7X6DvI/xV1Wzz3sBHevTz4AGpk+eOYZ1SPaTWaJbofoLbm/rEn3ljtwD7IXKk5a+EVL7yljAE/9ZjENBhqFE5oidbHr40Apdklk8z7SSBHE2VjP2BZvbAvkX/hQOongwPQgFcPyqesICcgBk+TrgdB04t89/1O/w1cDnyilFU="; //แก้ 1 
   var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1Ujp3plbhR-IM4oRCDowhvld89yOfovJ4O0O3U_otqW8/edit");  //แก้ 2
   var sheet = ss.getSheetByName("Data");
   var sheet1 = ss.getSheetByName("Log");
